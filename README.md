@@ -1,3 +1,4 @@
+![logo](https://github.com/Avinash-Puthukulangara/Avinash-Puthukulangara/blob/main/banner11.gif)
 <h1 align="center">Hi 👋, I'm Avinash P</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="coding" width="500" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
